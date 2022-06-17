@@ -1,4 +1,4 @@
-### Hello there. It's Lameya here 👋
+### Hello there. It's Lameya here! 👋
 
 - 🔭 I’m currently working on Research based projects on Computer Vision, Deep Learning.
 - 🌱 I’m currently learning OCR and NLP.
